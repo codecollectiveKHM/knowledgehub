@@ -1,7 +1,7 @@
 jupyter: python3
 project:
   type: website
-  output-dir: public
+  output-dir: docs
 
 site-url: https://codecollectiveKHM.github.com/knowledgehub
 
