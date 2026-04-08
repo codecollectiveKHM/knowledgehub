@@ -1,0 +1,36 @@
+jupyter: python3
+project:
+  type: website
+  output-dir: public
+
+site-url: https://codecollectiveKHM.github.com/knowledgehub
+
+website:
+  title: "Code Collective Knowledge Hub"
+  # image: opengraph.png
+  page-navigation: true
+
+# bibliography: src/bibliography.json
+
+format: 
+  # pdf:
+  #   documentclass: scrreprt
+  # textile:
+  html: 
+    theme: 
+      - cosmo
+      # - brand
+      - src/style.scss
+    toc: true
+    toc-title: "Contents"
+    code-fold: true
+    code-annotations: hover
+    css:
+      - src/style.css 
+    number-sections: false
+    reference-location: margin
+    toc-location: left
+
+# execute:
+  # freeze: auto
+#   debug: true
