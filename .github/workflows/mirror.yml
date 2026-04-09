@@ -1,0 +1,19 @@
+on: 
+  workflow_dispatch:
+  push:
+    branches: ['**']
+    tags: ['**']
+
+jobs:
+  mirror:
+      runs-on: ubuntu-latest
+      timeout-minutes: 5
+      steps:
+        - uses: actions/checkout@v3
+          with:
+            fetch-depth: 0
+        - uses: yesolutions/mirror-action@master
+          with:
+            REMOTE: 'https://codeberg.org/codecollective/knowledgehub.git'
+            GIT_USERNAME: sarahciston
+            GIT_PASSWORD: ${{ secrets.GIT_PASSWORD }}

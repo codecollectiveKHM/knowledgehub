@@ -2,29 +2,51 @@
   {
     "objectID": "index.html#lab-faq",
     "href": "index.html#lab-faq",
-    "title": "KHM Code Collective Knowledge Hub",
+    "title": "Code Collective Knowledge Hub",
     "section": "Lab FAQ",
-    "text": "Lab FAQ"
+    "text": "Lab FAQ",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>KHM Code Collective Template</span>"
+    ]
   },
   {
     "objectID": "index.html#about-artistic-research",
     "href": "index.html#about-artistic-research",
-    "title": "KHM Code Collective Knowledge Hub",
+    "title": "Code Collective Knowledge Hub",
     "section": "about Artistic Research",
-    "text": "about Artistic Research"
+    "text": "about Artistic Research",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>KHM Code Collective Knowledge Hub</span>"
+    ]
   },
   {
     "objectID": "index.html#about-criticalcreative-coding",
     "href": "index.html#about-criticalcreative-coding",
-    "title": "KHM Code Collective Knowledge Hub",
+    "title": "Code Collective Knowledge Hub",
     "section": "about Critical–Creative Coding",
-    "text": "about Critical–Creative Coding"
+    "text": "about Critical–Creative Coding",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>KHM Code Collective Template</span>"
+    ]
   },
   {
     "objectID": "index.html#about-kiai",
     "href": "index.html#about-kiai",
-    "title": "KHM Code Collective Knowledge Hub",
+    "title": "Code Collective Knowledge Hub",
     "section": "about KI/AI",
-    "text": "about KI/AI"
+    "text": "about KI/AI",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>KHM Code Collective Template</span>"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Code Collective Knowledge Hub",
+    "section": "",
+    "text": "Hallo!",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>KHM Code Collective Template</span>"
+    ]
   }
 ]

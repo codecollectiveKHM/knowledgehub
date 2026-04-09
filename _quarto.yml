@@ -1,14 +1,17 @@
 jupyter: python3
 project:
-  type: website
+  type: book
   output-dir: docs
 
 site-url: https://codecollectiveKHM.github.com/knowledgehub
 
-website:
+book:
   title: "Code Collective Knowledge Hub"
-  # image: opengraph.png
-  page-navigation: true
+  page-navigation: false
+  chapters:
+      - index.qmd
+      - pages/artisticresearch.qmd
+      - pages/inventory.qmd 
 
 # bibliography: src/bibliography.json
 

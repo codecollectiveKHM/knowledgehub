@@ -1,0 +1,6 @@
+---
+title: Inventory
+page-navigation: false
+toc: true
+# date: Aug 9 2025
+---

@@ -1,0 +1,6 @@
+---
+title: Artistic Research
+page-navigation: true
+toc: false
+# date: Aug 9 2025
+---
