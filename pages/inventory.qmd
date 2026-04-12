@@ -1,6 +1,29 @@
 ---
-title: Inventory
+title: Lab Inventory
 page-navigation: false
 toc: true
 # date: Aug 9 2025
 ---
+
+## Computers
+
+|Item|Description|Location|Purposes|Status|
+|---|---|---|---|
+|AI Station 1|5090 CPU running Ubuntu, Windows|Training & running ML models|Available, request login|
+|AI Station 2|5090 CPU running Ubuntu, Windows|Training & running ML models|Available, request login|
+|Ubuntu Station|mit LG widescreen, standing desk|-|Available|
+|Nvidia RTX 3090 TI||||
+|7280 ?||||
+|iMac 2014|||to be replaced|
+
+<!-- ## Monitors -->
+<!-- ## Cameras -->
+## Specialist Equipment
+
+|Item|Description|Location|Purposes|Status|
+|---|---|---|---|
+|||||
+
+
+
+

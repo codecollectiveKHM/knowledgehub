@@ -1,6 +1,37 @@
 ---
-title: Artistic Research
-page-navigation: true
-toc: false
+title: Research Resources
+page-navigation: false
+toc: true
 # date: Aug 9 2025
 ---
+
+<!-- this should be a table with submission deadlines and keywords -->
+
+## Conferences
+
+[ISEA International Symposium on Electronic Art](https://www.isea-international.org/)
+
+[SAR International Conference on Artistic Research](https://artisticresearch.online/international-meetings-and-events)
+
+[POM Politics of Machines](https://pom-conference.org/)
+
+## Journals
+
+[JAR Journal for Artistic Research](https://www.jar-online.net/en/issues/37)
+
+## Residencies & Fellowships
+
+[Akademie Schloss Solitude, Web & Stuttgart](https://www.akademie-solitude.de/de/)
+
+<!-- ask Ren -->
+
+[ZKU Zentrum für Kunst und Urbanistic, Berlin](https://www.zku-berlin.org/)
+
+## Practice-based PhDs
+
+## Prizes
+
+<!-- [Ars Electronica]() -->
+
+## Other PhDs
+

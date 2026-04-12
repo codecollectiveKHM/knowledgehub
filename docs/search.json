@@ -1,22 +1,22 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Code Collective Knowledge Hub",
+    "section": "",
+    "text": "Hallo!",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>KHM Code Collective</span>"
+    ]
+  },
+  {
     "objectID": "index.html#lab-faq",
     "href": "index.html#lab-faq",
     "title": "Code Collective Knowledge Hub",
     "section": "Lab FAQ",
     "text": "Lab FAQ",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>KHM Code Collective Template</span>"
-    ]
-  },
-  {
-    "objectID": "index.html#about-artistic-research",
-    "href": "index.html#about-artistic-research",
-    "title": "Code Collective Knowledge Hub",
-    "section": "about Artistic Research",
-    "text": "about Artistic Research",
-    "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>KHM Code Collective Knowledge Hub</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>KHM Code Collective</span>"
     ]
   },
   {
@@ -26,7 +26,7 @@
     "section": "about Critical–Creative Coding",
     "text": "about Critical–Creative Coding",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>KHM Code Collective Template</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>KHM Code Collective</span>"
     ]
   },
   {
@@ -36,17 +36,117 @@
     "section": "about KI/AI",
     "text": "about KI/AI",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>KHM Code Collective Template</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>KHM Code Collective</span>"
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Code Collective Knowledge Hub",
+    "objectID": "pages/artisticresearch.html",
+    "href": "pages/artisticresearch.html",
+    "title": "Research Resources",
     "section": "",
-    "text": "Hallo!",
+    "text": "Conferences\nISEA International Symposium on Electronic Art\nSAR International Conference on Artistic Research\nPOM Politics of Machines",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>KHM Code Collective Template</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Research Resources</span>"
+    ]
+  },
+  {
+    "objectID": "pages/artisticresearch.html#journals",
+    "href": "pages/artisticresearch.html#journals",
+    "title": "Research Resources",
+    "section": "Journals",
+    "text": "Journals\nJAR Journal for Artistic Research",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Research Resources</span>"
+    ]
+  },
+  {
+    "objectID": "pages/artisticresearch.html#residencies-fellowships",
+    "href": "pages/artisticresearch.html#residencies-fellowships",
+    "title": "Research Resources",
+    "section": "Residencies & Fellowships",
+    "text": "Residencies & Fellowships\nAkademie Schloss Solitude, Web & Stuttgart\n\nZKU Zentrum für Kunst und Urbanistic, Berlin",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Research Resources</span>"
+    ]
+  },
+  {
+    "objectID": "pages/artisticresearch.html#practice-based-phds",
+    "href": "pages/artisticresearch.html#practice-based-phds",
+    "title": "Research Resources",
+    "section": "Practice-based PhDs",
+    "text": "Practice-based PhDs",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Research Resources</span>"
+    ]
+  },
+  {
+    "objectID": "pages/artisticresearch.html#prizes",
+    "href": "pages/artisticresearch.html#prizes",
+    "title": "Research Resources",
+    "section": "Prizes",
+    "text": "Prizes",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Research Resources</span>"
+    ]
+  },
+  {
+    "objectID": "pages/artisticresearch.html#other-phds",
+    "href": "pages/artisticresearch.html#other-phds",
+    "title": "Research Resources",
+    "section": "Other PhDs",
+    "text": "Other PhDs",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Research Resources</span>"
+    ]
+  },
+  {
+    "objectID": "pages/inventory.html",
+    "href": "pages/inventory.html",
+    "title": "Lab Inventory",
+    "section": "",
+    "text": "Computers",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Lab Inventory</span>"
+    ]
+  },
+  {
+    "objectID": "pages/inventory.html#computers",
+    "href": "pages/inventory.html#computers",
+    "title": "Lab Inventory",
+    "section": "",
+    "text": "Item\nDescription\nLocation\nPurposes\n\n\n\n\nAI Station 1\n5090 CPU running Ubuntu, Windows\nTraining & running ML models\nAvailable, request login\n\n\nAI Station 2\n5090 CPU running Ubuntu, Windows\nTraining & running ML models\nAvailable, request login\n\n\nUbuntu Station\nmit LG widescreen, standing desk\n-\nAvailable\n\n\nNvidia RTX 3090 TI\n\n\n\n\n\n7280 ?\n\n\n\n\n\niMac 2014\n\n\nto be replaced",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Lab Inventory</span>"
+    ]
+  },
+  {
+    "objectID": "pages/inventory.html#specialist-equipment",
+    "href": "pages/inventory.html#specialist-equipment",
+    "title": "Lab Inventory",
+    "section": "Specialist Equipment",
+    "text": "Specialist Equipment\n\n\n\nItem\nDescription\nLocation\nPurposes",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Lab Inventory</span>"
+    ]
+  },
+  {
+    "objectID": "pages/tools.html",
+    "href": "pages/tools.html",
+    "title": "Tech Resources",
+    "section": "",
+    "text": "Running Servers\nCaddy (server, alt to nginx)\nMatrix, Conduit server self-host\nHetzner (Germany, cheap-ish, not entirely intuitive, some starters)\nNearly Free Speech (cheapest, least intuitive)\nScalingo (France, many starters)\nVercel (US, serverless, many starters)\nSupabase, dev platform with database incl.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Tech Resources</span>"
+    ]
+  },
+  {
+    "objectID": "pages/tools.html#working-with-ml-models",
+    "href": "pages/tools.html#working-with-ml-models",
+    "title": "Tech Resources",
+    "section": "Working with ML models",
+    "text": "Working with ML models\nOllama (running AI models locally, no data sharing)\nComfyUI (visual interface for programming ML)\nLangchain (framework for quick AI agent coding)",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Tech Resources</span>"
     ]
   }
 ]

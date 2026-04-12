@@ -1,0 +1,32 @@
+---
+title: Tech Resources
+page-navigation: false
+toc: true
+# date: Aug 9 2025
+---
+
+## Running Servers
+
+[Caddy](https://caddyserver.com/) (server, alt to nginx)
+
+[Matrix](), Conduit server self-host
+
+[Hetzner](https://www.hetzner.com/) (Germany, cheap-ish, not entirely intuitive, some starters)
+
+[Nearly Free Speech](https://www.nearlyfreespeech.net/) (cheapest, least intuitive)
+
+[Scalingo](https://scalingo.com/pricing) (France, many starters)
+
+[Vercel](https://vercel.com/home) (US, serverless, many starters)
+
+[Supabase](https://supabase.com/), dev platform with database incl.
+
+## Working with ML models
+
+[Ollama](https://ollama.com/download) (running AI models locally, no data sharing)
+
+[ComfyUI](https://www.comfy.org/download) (visual interface for programming ML)
+
+[Langchain](https://docs.langchain.com/oss/python/langchain/overview) (framework for quick AI agent coding)
+
+
