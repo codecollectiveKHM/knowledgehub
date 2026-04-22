@@ -5,28 +5,48 @@ toc: true
 # date: Aug 9 2025
 ---
 
-## Running Servers
+Here are some tools you might try out...
 
-[Caddy](https://caddyserver.com/) (server, alt to nginx)
+## Coding on the desktop/laptop
+
+[miniconda](https://www.anaconda.com/docs/getting-started/miniconda/main), Python environment and package manager
+
+[hyper](https://hyper.is/), customizable terminal/console (there are many others)
+
+[VS Code](), software for writing code (you can also use a text editor, but software like this means to help)
+
+[quarto](https://quarto.org/), built this knowledge hub, a framework for presenting or publishing text and data in many formats, including interactively. For example, can run Python (Jupyter notebooks), R, Javascript (Observable), and Julia language cells embedded in web sites.
+
+[git]
+
+## Running servers
+
+[Caddy](https://caddyserver.com/), server, alt to nginx
 
 [Matrix](), Conduit server self-host
 
-[Hetzner](https://www.hetzner.com/) (Germany, cheap-ish, not entirely intuitive, some starters)
+[Hetzner](https://www.hetzner.com/), Germany, cheap-ish, not entirely intuitive, some starters
 
-[Nearly Free Speech](https://www.nearlyfreespeech.net/) (cheapest, least intuitive)
+[Nearly Free Speech](https://www.nearlyfreespeech.net/), cheapest, least intuitive
 
-[Scalingo](https://scalingo.com/pricing) (France, many starters)
+[Scalingo](https://scalingo.com/pricing), France, many starters
 
-[Vercel](https://vercel.com/home) (US, serverless, many starters)
+[Vercel](https://vercel.com/home), US, serverless, many starters
 
 [Supabase](https://supabase.com/), dev platform with database incl.
 
 ## Working with ML models
 
-[Ollama](https://ollama.com/download) (running AI models locally, no data sharing)
+[Ollama](https://ollama.com/download), running AI models locally, no data sharing
 
-[ComfyUI](https://www.comfy.org/download) (visual interface for programming ML)
+[Onyx]() or [OpenWebUI]()
 
-[Langchain](https://docs.langchain.com/oss/python/langchain/overview) (framework for quick AI agent coding)
+[ComfyUI](https://www.comfy.org/download), visual interface for programming ML
+
+[Langchain](https://docs.langchain.com/oss/python/langchain/overview), framework for quick AI agent coding
+
+## ML models we like
+
+
 
 
