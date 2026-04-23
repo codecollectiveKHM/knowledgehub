@@ -134,7 +134,17 @@
     "href": "pages/tools.html",
     "title": "Tech Resources",
     "section": "",
-    "text": "Running Servers\nCaddy (server, alt to nginx)\nMatrix, Conduit server self-host\nHetzner (Germany, cheap-ish, not entirely intuitive, some starters)\nNearly Free Speech (cheapest, least intuitive)\nScalingo (France, many starters)\nVercel (US, serverless, many starters)\nSupabase, dev platform with database incl.",
+    "text": "Coding on the desktop/laptop\nHere are some tools you might try out…\nminiconda, Python environment and package manager\nhyper, customizable terminal/console (there are many others)\nVS Code, software for writing code (you can also use a text editor, but software like this means to help)\nquarto, built this knowledge hub, a framework for presenting or publishing text and data in many formats, including interactively. For example, can run Python (Jupyter notebooks), R, Javascript (Observable), and Julia language cells embedded in web sites.\n[git]",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Tech Resources</span>"
+    ]
+  },
+  {
+    "objectID": "pages/tools.html#running-servers",
+    "href": "pages/tools.html#running-servers",
+    "title": "Tech Resources",
+    "section": "Running servers",
+    "text": "Running servers\nCaddy, server, alt to nginx\nMatrix, Conduit server self-host\nHetzner, Germany, cheap-ish, not entirely intuitive, some starters\nNearly Free Speech, cheapest, least intuitive\nScalingo, France, many starters\nVercel, US, serverless, many starters\nSupabase, dev platform with database incl.",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Tech Resources</span>"
     ]
@@ -144,7 +154,17 @@
     "href": "pages/tools.html#working-with-ml-models",
     "title": "Tech Resources",
     "section": "Working with ML models",
-    "text": "Working with ML models\nOllama (running AI models locally, no data sharing)\nComfyUI (visual interface for programming ML)\nLangchain (framework for quick AI agent coding)",
+    "text": "Working with ML models\nOllama, running AI models locally, no data sharing\nOnyx or OpenWebUI\nComfyUI, visual interface for programming ML\nLangchain, framework for quick AI agent coding",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Tech Resources</span>"
+    ]
+  },
+  {
+    "objectID": "pages/tools.html#ml-models-we-like",
+    "href": "pages/tools.html#ml-models-we-like",
+    "title": "Tech Resources",
+    "section": "ML models we like",
+    "text": "ML models we like",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Tech Resources</span>"
     ]
