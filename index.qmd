@@ -7,7 +7,12 @@ toc: true
 
 ## Hallo!
 
-## Lab FAQ
+Code Collective (name TK) is a supportive community for critical–creative coding. It is organized as a collaboratory (colloquium-collaboration-laboratory) emphasizing co-learning and co-teaching, process, and experimentation. In this cooperative space you can dabble in code, troubleshoot a dream project, ask ‘silly’ questions, and explore new programming techniques suited to your artistic practice. The topics and tech will vary based on our shared  interests, always with a focus on the sociotechnical impacts of our practice. All levels and languages are welcome!
+
+
+<!-- ## Code Collective Lab FAQ -->
+
+## about Critical Art & Tech at KHM 
 
 ## about Critical–Creative Coding
 
