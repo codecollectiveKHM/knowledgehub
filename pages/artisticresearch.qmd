@@ -7,6 +7,8 @@ toc: true
 
 <!-- this should be a table with submission deadlines and keywords -->
 
+<!-- numpy or link to csv incl. -->
+
 ## Conferences
 
 [ISEA International Symposium on Electronic Art](https://www.isea-international.org/)
@@ -14,6 +16,13 @@ toc: true
 [SAR International Conference on Artistic Research](https://artisticresearch.online/international-meetings-and-events)
 
 [POM Politics of Machines](https://pom-conference.org/)
+
+
+<!-- HCI Conferences -->
+
+<!-- [SIGGRAPH]() -->
+
+<!-- [CHI]() -->
 
 ## Journals
 

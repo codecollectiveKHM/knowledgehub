@@ -12,8 +12,18 @@ Code Collective (name TK) is a supportive community for critical–creative codi
 
 <!-- ## Code Collective Lab FAQ -->
 
-## about Critical Art & Tech at KHM 
+<!-- ## about Critical Art & Tech at KHM 
 
-## about Critical–Creative Coding
 
-## about KI/AI
+Professors and labs with a concentration on critical art and technology themes and topics:
+
+* Prof. Dr. Sarah Ciston
+* Christian Heck
+* Prof. Zilvinas Lilas
+* TBD
+* TBD
+* TBD -->
+
+<!-- ## about Critical–Creative Coding -->
+
+<!-- ## about KI/AI -->
